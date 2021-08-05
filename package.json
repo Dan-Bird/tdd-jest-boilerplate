@@ -1,0 +1,23 @@
+{
+  "name": "tdd-jest-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dan-Bird/tdd-jest-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dan-Bird/tdd-jest-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Dan-Bird/tdd-jest-boilerplate#readme",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jest-each": "^27.0.6"
+  }
+}
