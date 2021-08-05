@@ -1,5 +1,3 @@
-const each = require('jest-each').default;
-
 const Canary = require('./index.js');
 
 describe('Canary Test', () => {
